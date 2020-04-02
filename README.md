@@ -1,2 +1,4 @@
 # hello-world
-Trial repo
+
+This is a policitcally correct message.
+Hope you enjoyed it.
