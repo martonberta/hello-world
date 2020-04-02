@@ -1,4 +1,4 @@
 # hello-world
 
-This is a policitcally correct message.
+This is a politically correct message.
 Hope you enjoyed it.
